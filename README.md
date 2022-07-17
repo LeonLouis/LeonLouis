@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeonLouis
-- 👀 I’m interested in Python, PHP, Wordpress, HTML, CSS and MySQL
-- 🌱 I’m currently learning Flutter, Nativescript
+- 👀 I’m interested in JavaScript, PHP, Wordpress, HTML, CSS and MySQL
+- 🌱 I’m currently learning Vanilla JavaScript, Laravel
 - 💞️ I’m looking to collaborate on any Web Development or Application Development
 - 📫 How to reach me leon.lalisan@gmail.com / https://www.linkedin.com/in/leon-lalisan/
 
